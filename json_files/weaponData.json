@@ -1,0 +1,329 @@
+[
+    {
+        "Name": "Fists",
+        "Craftable": "No",
+        "Damage": 6,
+        "Attack speed": 1.8,
+        "DPS": 10.8,
+        "Sneak Damage": 18,
+        "Durability": "N/A"
+    },
+    {
+        "Name": "Spear",
+        "Craftable":{
+            "Pine Log": 3
+        },
+        "Damage": 10,
+        "Attack speed": 1,
+        "DPS": 10,
+        "Sneak Damage": 30,
+        "Durability": 100
+    },
+    {
+        "Name": "Hatchet",
+        "Craftable":{
+            "Pine Log": 3,
+            "Limestone": 3
+        },
+        "Damage": 7,
+        "Attack speed": 0.9,
+        "DPS": 6.3,
+        "Sneak Damage": 21,
+        "Durability": 50
+    },
+    {
+        "Name": "Pickaxe",
+        "Craftable":{
+            "Pine Log": 3,
+            "Limestone": 3
+        },
+        "Damage": 7,
+        "Attack speed": 1.1,
+        "DPS": 7.7,
+        "Sneak Damage": 21,
+        "Durability": 50
+    },
+    {
+        "Name": "Iron Hatchet",
+        "Craftable":{
+            "Iron Bar": 5,
+            "Pine Plank": 3,
+            "Nails": 2,
+            "Duct Tape": 5
+        },
+        "Damage": 20,
+        "Attack speed": 1.1,
+        "DPS": 22,
+        "Sneak Damage": 60,
+        "Durability": 75
+    },
+    {
+        "Name": "Iron Pickaxe",
+        "Craftable":{
+            "Iron Bar": 5,
+            "Pine Plank": 3,
+            "Nails": 2,
+            "Duct Tape": 5
+        },
+        "Damage": 20,
+        "Attack speed": 0.9,
+        "DPS": 18,
+        "Sneak Damage": 60,
+        "Durability": 75
+    },
+    {
+        "Name": "Torch",
+        "Craftable":{
+            "Pine Log": 5,
+            "Animal Rawhide": 1,
+            "Rope": 2
+        },
+        "Damage": 12,
+        "Attack speed": 1.1,
+        "DPS": 13.2,
+        "Sneak Damage": 36,
+        "Durability": 100
+    },
+    {
+        "Name": "Makeshift Bat",
+        "Craftable":{
+            "Pine Plank": 5,
+            "Duct Tape": 3
+        },
+        "Damage": 14,
+        "Attack speed": 1,
+        "DPS": 14,
+        "Sneak Damage": 42,
+        "Durability": 100
+    },
+    {
+        "Name": "Cleaver",
+        "Craftable":{
+            "Iron Bar": 5,
+            "Leather": 5,
+            "Pine Plank": 4
+        },
+        "Damage": 17,
+        "Attack speed": 1.4,
+        "DPS": 23.8,
+        "Sneak Damage": 51,
+        "Durability": 100
+    },
+    {
+        "Name": "Crowbar",
+        "Craftable":{
+            "Iron Bar": 7,
+            "Leather": 3
+        },
+        "Damage": 17,
+        "Attack speed": 1.6,
+        "DPS": 27.2,
+        "Sneak Damage": 51,
+        "Durability": 100
+    },
+    {
+        "Name": "Shovel",
+        "Craftable":{
+            "Pine Plank": 8,
+            "Iron Bar": 7,
+            "Nails": 3
+        },
+        "Damage": 26,
+        "Attack speed": 1,
+        "DPS": 26,
+        "Sneak Damage": 78,
+        "Durability": 70
+    },
+    {
+        "Name": "Metal Pipe",
+        "Craftable":{
+            "Iron Bar": 10,
+            "Bolts": 5,
+            "Leather": 5,
+            "Iron Plate": 1
+        },
+        "Damage": 26,
+        "Attack speed": 1.3,
+        "DPS": 33.8,
+        "Sneak Damage": 78,
+        "Durability": 98
+    },
+    {
+        "Name": "Glock 17",
+        "Craftable":{
+            "Steel Bar": 20,
+            "Bolts": 15,
+            "Spring": 8,
+            "Gunpowder": 5
+        },
+        "Damage": 20,
+        "Attack speed": 3.3,
+        "DPS": 66,
+        "Sneak Damage": "#1",
+        "Durability": 100
+    },
+    {
+        "Name": "Fishing Rod",
+        "Craftable":{
+            "Oak Plank": 3,
+            "Steel Bar": 1,
+            "Rope": 5,
+            "Plastic": 2,
+            "Adhesive": 3
+        },
+        "Damage": 5,
+        "Attack speed": 1.1,
+        "DPS": 5.5,
+        "Sneak Damage": 15,
+        "Durability": 10
+    },
+    {
+        "Name": "Machete",
+        "Craftable":{
+            "Iron Bar": 15,
+            "Pine Plank": 3,
+            "Leather": 12
+        },
+        "Damage": 30,
+        "Attack speed": 1.3,
+        "DPS": 39,
+        "Sneak Damage": 90,
+        "Durability": 80
+    },
+    {
+        "Name": "Saw Blade Mace",
+        "Craftable":{
+            "Iron Bar": 15,
+            "Pine Plank": 10,
+            "Duct Tape": 5,
+            "Scrap Metal": 5,
+            "Leather": 12
+        },
+        "Damage": 55,
+        "Attack speed": 0.7,
+        "DPS": 38.5,
+        "Sneak Damage": 165,
+        "Durability": 30
+    },
+    {
+        "Name": "Shotgun",
+        "Craftable":{
+            "Spring": 2,
+            "Tungsten Bar": 5,
+            "Ash Plank": 3,
+            "Duct Tape": 2
+        },
+        "Damage": 70,
+        "Attack speed": 0.9,
+        "DPS": 63,
+        "Sneak Damage": "#1",
+        "Durability": 40
+    },
+    {
+        "Name": "AK-47",
+        "Craftable":{
+            "Spring": 4,
+            "Tungsten Bar": 7,
+            "Ash Plank": 5
+        },
+        "Damage": 15,
+        "Attack speed": 8.3,
+        "DPS": 124.5,
+        "Sneak Damage": "#1",
+        "Durability": 170
+    },
+    {
+        "Name": "Hammer",
+        "Craftable": "No",
+        "Damage": 8,
+        "Attack speed": 1.7,
+        "DPS": 13.6,
+        "Sneak Damage": 24,
+        "Durability": 100
+    },
+    {
+        "Name": "Golf Club",
+        "Craftable": "No",
+        "Damage": 18,
+        "Attack speed": 1.1,
+        "DPS": 19.8,
+        "Sneak Damage": 54,
+        "Durability": 80
+    },
+    {
+        "Name": "Baseball Bat",
+        "Craftable": "No",
+        "Damage": 20,
+        "Attack speed": 1,
+        "DPS": 20,
+        "Sneak Damage": 60,
+        "Durability": 80
+    },
+    {
+        "Name": "Paddle",
+        "Craftable": "No",
+        "Damage": 20,
+        "Attack speed": 0.8,
+        "DPS": 16,
+        "Sneak Damage": 60,
+        "Durability": 80
+    },
+    {
+        "Name": "Road Sign",
+        "Craftable": "No",
+        "Damage": 30,
+        "Attack speed": 0.7,
+        "DPS": 21,
+        "Sneak Damage": 90,
+        "Durability": 70
+    },
+    {
+        "Name": "Katana",
+        "Craftable": "No",
+        "Damage": 35,
+        "Attack speed": 1.3,
+        "DPS": 45.5,
+        "Sneak Damage": 105,
+        "Durability": 70
+    },
+    {
+        "Name": "Zip Gun",
+        "Craftable":{
+            "Steel Bars": 2,
+            "Spring": 4,
+            "Duct Tape": 5,
+            "Bolts": 3,
+            "Oak Plank": 1,
+            "Adhesive": 8
+        },
+        "Damage": 18,
+        "Attack speed": 0.8,
+        "DPS": 14.4,
+        "Sneak Damage": "#1",
+        "Durability": 100
+    },
+    {
+        "Name": "Bow",
+        "Craftable":{
+            "Pine Plank": 5,
+            "Iron Bar": 1,
+            "Rope": 5,
+            "Duct Tape": 3,
+            "Adhesive": 3
+        },
+        "Damage": "8-20",
+        "Attack speed": "0.6-1.0",
+        "DPS": "4.8-1.2",
+        "Sneak Damage": "#1",
+        "Durability": 50
+    },
+    {
+        "Name": "Scythe",
+        "Craftable": "No",
+        "Damage": 60,
+        "Attack speed": 0.7,
+        "DPS": 42,
+        "Sneak Damage": 180,
+        "Durability": 3
+    }
+]
