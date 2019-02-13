@@ -1,0 +1,60 @@
+Name,Food Points,Saturation restored,"Effective Quality",Saturation ratio,Status effects
+Apple,4,2.4,6.4,0.6,None
+Baked Potato,5,6,11,1.2,None
+Beetroot,1,1.2,2.2,1.2,None
+Beetroot Soup,6,7.2,13.2,1.2,None
+Bread,5,6,11,1.2,None
+Cake slice,2,0.4,2.4,0.2,None
+Cake whole,14,2.8,16.8,0.2,None
+Carrot,3,3.6,6.6,1.2,None
+Chorus Fruit,4,2.4,6.4,0.6,"The player may be teleported randomly, as described at Enderman#Teleportation."
+Cooked Chicken,6,7.2,13.2,1.2,None
+Cooked Cod,5,6,11,1.2,None
+Cooked Mutton,6,9.6,15.6,1.6,None
+Cooked Porkchop,8,12.8,20.8,1.6,None
+Cooked Rabbit,5,6,11,1.2,None
+Cooked Salmon,6,9.6,15.6,1.6,None
+Cookie,2,0.4,2.4,0.2,None
+Dried Kelp,1,0.6,1.6,0.6,None
+Golden Apple,4,9.6,13.6,2.4,"Regeneration II for 5 seconds
+Absorption for 2 minutes"
+Enchanted Golden Apple,4,9.6,13.6,2.4,"Regeneration II for 20 seconds 30 seconds in the Legacy Console Edition
+Absorption IV for 2 minutes
+Resistance for 5 minutes
+Fire Resistance for 5 minutes"
+Golden Carrot,6,14.4,20.4,2.4,None
+Melon Slice,2,1.2,3.2,0.6,None
+Mushroom Stew,6,7.2,13.2,1.2,None
+Poisonous Potato,2,1.2,3.2,0.6,Poison for 4 seconds 60% chance
+Potato,1,0.6,1.6,0.6,None
+Pufferfish,1,0.2,1.2,"0.2
+−4.8","Hunger III for 15 seconds
+Nausea II for 15 seconds
+Poison IV for 60 seconds"
+Pumpkin Pie,8,4.8,12.8,0.6,None
+Rabbit Stew,10,12,22,1.2,None
+Raw Beef,3,1.8,4.8,0.6,None
+Raw Chicken,2,1.2,3.2,"0.6
+-2.075",Hunger for 30 seconds 30% chance
+Raw Cod,2,0.4,2.4,0.2,None
+Raw Mutton,2,1.2,3.2,0.6,None
+Raw Porkchop,3,1.8,4.8,0.6,None
+Raw Rabbit,3,1.8,4.8,0.6,None
+Raw Salmon,2,0.4,2.4,0.2,None
+Rotten Flesh,4,0.8,4.8,"0.2
+-1.8",Hunger for 30 seconds 80% chance
+Spider Eye,2,3.2,5.2,"1.6
+-2.2",Poison for 4 seconds
+Steak,8,12.8,20.8,1.6,None
+Suspicious Stew,6,7.2,13.2,1.2,"The following for 3-11 seconds, depending on the flower used:
+Regeneration
+Jump Boost
+Poison
+Wither
+Weakness
+Blindness
+Fire Resistance
+Saturation
+Speed"
+Sweet Berries,2,?,?,?,None
+Tropical Fish,1,0.2,1.2,0.2,None
