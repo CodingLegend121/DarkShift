@@ -1,0 +1,690 @@
+[
+    {
+        "Name": "Apple Cabbage Stew",
+        "Encumbrance": 0.5,
+        "Gold": 8,
+        "Restore Health": 10,
+        "Restore Stamina": 15,
+        "Effect": ""
+    },
+    {
+        "Name": "Apple DumplingHF",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": "Bows do 5% more damage for 60 seconds"
+    },
+    {
+        "Name": "Apple Pie",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Ash Hopper LegDR",
+        "Encumbrance": 1,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Ash Hopper MeatDR",
+        "Encumbrance": 0.5,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Ash YamDR",
+        "Encumbrance": 0.1,
+        "Gold": 1,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Baked Potatoes",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Beef Stew",
+        "Encumbrance": 0.5,
+        "Gold": 8,
+        "Restore Health": "",
+        "Restore Stamina": "",
+        "Effect": "Fortify Stamina 25 points for 720 seconds. Restore Stamina 2 points for 720 seconds"
+    },
+    {
+        "Name": "Boar MeatDR",
+        "Encumbrance": 1,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Boiled Creme Treat",
+        "Encumbrance": 0.5,
+        "Gold": 4,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Braided BreadHF",
+        "Encumbrance": 0.2,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": "Carrying capacity increases by 5 for 30 seconds"
+    },
+    {
+        "Name": "Bread",
+        "Encumbrance": 0.2,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Butter",
+        "Encumbrance": 0.1,
+        "Gold": 1,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Cabbage",
+        "Encumbrance": 0.25,
+        "Gold": 2,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Cabbage Potato Soup",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": 10,
+        "Effect": ""
+    },
+    {
+        "Name": "Cabbage Soup",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": 8,
+        "Effect": ""
+    },
+    {
+        "Name": "Carrot",
+        "Encumbrance": 0.1,
+        "Gold": 1,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Charred Skeever Meat",
+        "Encumbrance": 0.2,
+        "Gold": 4,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Chicken Breast",
+        "Encumbrance": 0.2,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Chicken DumplingHF",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 15,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Clam ChowderHF",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": 10,
+        "Effect": ""
+    },
+    {
+        "Name": "Clam Meat",
+        "Encumbrance": 0.1,
+        "Gold": 0,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Cooked Beef",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Cooked Boar MeatDR",
+        "Encumbrance": 1,
+        "Gold": 15,
+        "Restore Health": 12,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Dog Meat",
+        "Encumbrance": 0.2,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Eidar Cheese Wedge",
+        "Encumbrance": 0.25,
+        "Gold": 5,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Eidar Cheese Wheel",
+        "Encumbrance": 2,
+        "Gold": 13,
+        "Restore Health": 15,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Elsweyr Fondue",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": "Regenerate Magicka 25 points for 720 seconds. Fortify Magicka 100 points for 720 seconds"
+    },
+    {
+        "Name": "Fresh Meat",
+        "Encumbrance": 3,
+        "Gold": 6,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Garlic BreadHF",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": "Cures all diseases"
+    },
+    {
+        "Name": "Goat Cheese Wedge",
+        "Encumbrance": 0.25,
+        "Gold": 4,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Goat Cheese Wheel",
+        "Encumbrance": 2,
+        "Gold": 10,
+        "Restore Health": 15,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Gourd",
+        "Encumbrance": 0.2,
+        "Gold": 0,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Green Apple",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Grilled Chicken Breast",
+        "Encumbrance": 0.2,
+        "Gold": 4,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Grilled Leeks",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 6,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Homecooked MealHF",
+        "Encumbrance": 1,
+        "Gold": 5,
+        "Restore Health": "",
+        "Restore Stamina": "",
+        "Effect": "Increased Health, Magicka, & Stamina Regeneration"
+    },
+    {
+        "Name": "Honey",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Honey Nut Treat",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Horker and Ash Yam StewDR",
+        "Encumbrance": 0.5,
+        "Gold": 9,
+        "Restore Health": 16,
+        "Restore Stamina": 12,
+        "Effect": ""
+    },
+    {
+        "Name": "Horker Loaf",
+        "Encumbrance": 1,
+        "Gold": 4,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Horker Meat",
+        "Encumbrance": 1,
+        "Gold": 3,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Horker Stew",
+        "Encumbrance": 0.5,
+        "Gold": 8,
+        "Restore Health": 15,
+        "Restore Stamina": 15,
+        "Effect": "Restore Health 1 point for 720 seconds"
+    },
+    {
+        "Name": "Horse Haunch",
+        "Encumbrance": 2,
+        "Gold": 4,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Horse Meat",
+        "Encumbrance": 2,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Jazbay CrostataHF",
+        "Encumbrance": 0.2,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": "Fortify Magicka 4 points for 60 seconds"
+    },
+    {
+        "Name": "Jug of Milk HF",
+        "Encumbrance": 1,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Juniper Berry CrostataHF",
+        "Encumbrance": 0.2,
+        "Gold": 5,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": "Restore Health 2 points per second for 60 seconds"
+    },
+    {
+        "Name": "Lavender DumplingHF",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": "Fortify Magicka 10 points for 60 seconds. Magicka Resistance increases 10% for 60 seconds"
+    },
+    {
+        "Name": "Leek",
+        "Encumbrance": 0.1,
+        "Gold": 1,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Leg of Goat",
+        "Encumbrance": 1,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Leg of Goat Roast",
+        "Encumbrance": 1,
+        "Gold": 4,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Long Taffy Treat",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 10,
+        "Restore Stamina": 5,
+        "Effect": ""
+    },
+    {
+        "Name": "Mammoth Cheese Bowl",
+        "Encumbrance": 0.5,
+        "Gold": 3,
+        "Restore Health": 10,
+        "Restore Stamina": 15,
+        "Effect": ""
+    },
+    {
+        "Name": "Mammoth Snout",
+        "Encumbrance": 3,
+        "Gold": 6,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Mammoth Steak",
+        "Encumbrance": 2,
+        "Gold": 8,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Mudcrab Legs",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Mead with Juniper Berry",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": "",
+        "Restore Stamina": 20,
+        "Effect": "Damage Stamina Regeneration 30 points for 40 seconds"
+    },
+    {
+        "Name": "Mudcrab LegsHF",
+        "Encumbrance": 0.1,
+        "Gold": 9,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Pheasant Breast",
+        "Encumbrance": 0.2,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Pheasant Roast",
+        "Encumbrance": 0.2,
+        "Gold": 4,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Potato",
+        "Encumbrance": 0.1,
+        "Gold": 1,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Potato BreadHF",
+        "Encumbrance": 0.2,
+        "Gold": 2,
+        "Restore Health": 3,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Potato SoupHF",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": 10,
+        "Effect": ""
+    },
+    {
+        "Name": "Rabbit Haunch",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Raw Beef",
+        "Encumbrance": 0.2,
+        "Gold": 4,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Raw Rabbit Leg",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Red Apple",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Sack of Flour",
+        "Encumbrance": 0.5,
+        "Gold": 1,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Salmon Meat",
+        "Encumbrance": 0.1,
+        "Gold": 3,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Salmon Steak",
+        "Encumbrance": 0.1,
+        "Gold": 4,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Seared Slaughterfish",
+        "Encumbrance": 0.1,
+        "Gold": 5,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Sliced Eidar Cheese",
+        "Encumbrance": 2,
+        "Gold": 10,
+        "Restore Health": 15,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Sliced Goat Cheese",
+        "Encumbrance": 2,
+        "Gold": 8,
+        "Restore Health": 15,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Snowberry CrostataHF",
+        "Encumbrance": 0.2,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": "",
+        "Effect": "Fire Resistance increases 4% for 60 seconds"
+    },
+    {
+        "Name": "Soul HuskDG",
+        "Encumbrance": 0.1,
+        "Gold": 1,
+        "Restore Health": "",
+        "Restore Stamina": "",
+        "Effect": "Interrupts the soul drain effect in the Soul Cairn. Resist 10% of magic for 10 seconds"
+    },
+    {
+        "Name": "Spiced Beef",
+        "Encumbrance": 0.5,
+        "Gold": 4,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Spiced Wine",
+        "Encumbrance": 0.5,
+        "Gold": 7,
+        "Restore Health": "",
+        "Restore Stamina": 25,
+        "Effect": "Damage Stamina Regeneration 30 points for 50 seconds"
+    },
+    {
+        "Name": "Steamed Mudcrab LegsHF",
+        "Encumbrance": 0.1,
+        "Gold": 4,
+        "Restore Health": 12,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Sweet Roll",
+        "Encumbrance": 0.1,
+        "Gold": 2,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Tomato",
+        "Encumbrance": 0.1,
+        "Gold": 4,
+        "Restore Health": 1,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Tomato Soup",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": 10,
+        "Restore Stamina": 10,
+        "Effect": ""
+    },
+    {
+        "Name": "Vegetable Soup",
+        "Encumbrance": 0.5,
+        "Gold": 5,
+        "Restore Health": "",
+        "Restore Stamina": "",
+        "Effect": "Restore Health 1 point for 720 seconds. Restore Stamina 1 point for 720 seconds"
+    },
+    {
+        "Name": "Venison",
+        "Encumbrance": 2,
+        "Gold": 4,
+        "Restore Health": 2,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Venison Chop",
+        "Encumbrance": 2,
+        "Gold": 5,
+        "Restore Health": 5,
+        "Restore Stamina": "",
+        "Effect": ""
+    },
+    {
+        "Name": "Venison Stew",
+        "Encumbrance": 0.5,
+        "Gold": 8,
+        "Restore Health": "",
+        "Restore Stamina": 15,
+        "Effect": "Restore Health 1 point for 720 seconds. Restore Stamina 1 point for 720 seconds"
+    }
+  ]

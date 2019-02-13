@@ -1,0 +1,322 @@
+[
+    {
+        "Name": "Apple",
+        "Food Points": 4,
+        "Saturation restored": 2.4,
+        "Effective Quality": 6.4,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Baked Potato",
+        "Food Points": 5,
+        "Saturation restored": 6,
+        "Effective Quality": 11,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Beetroot",
+        "Food Points": 1,
+        "Saturation restored": 1.2,
+        "Effective Quality": 2.2,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Beetroot Soup",
+        "Food Points": 6,
+        "Saturation restored": 7.2,
+        "Effective Quality": 13.2,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Bread",
+        "Food Points": 5,
+        "Saturation restored": 6,
+        "Effective Quality": 11,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cake slice",
+        "Food Points": 2,
+        "Saturation restored": 0.4,
+        "Effective Quality": 2.4,
+        "Saturation ratio": 0.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cake whole",
+        "Food Points": 14,
+        "Saturation restored": 2.8,
+        "Effective Quality": 16.8,
+        "Saturation ratio": 0.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Carrot",
+        "Food Points": 3,
+        "Saturation restored": 3.6,
+        "Effective Quality": 6.6,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Chorus Fruit",
+        "Food Points": 4,
+        "Saturation restored": 2.4,
+        "Effective Quality": 6.4,
+        "Saturation ratio": 0.6,
+        "Status effects": "The player may be teleported randomly, as described at Enderman#Teleportation."
+    },
+    {
+        "Name": "Cooked Chicken",
+        "Food Points": 6,
+        "Saturation restored": 7.2,
+        "Effective Quality": 13.2,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cooked Cod",
+        "Food Points": 5,
+        "Saturation restored": 6,
+        "Effective Quality": 11,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cooked Mutton",
+        "Food Points": 6,
+        "Saturation restored": 9.6,
+        "Effective Quality": 15.6,
+        "Saturation ratio": 1.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cooked Porkchop",
+        "Food Points": 8,
+        "Saturation restored": 12.8,
+        "Effective Quality": 20.8,
+        "Saturation ratio": 1.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cooked Rabbit",
+        "Food Points": 5,
+        "Saturation restored": 6,
+        "Effective Quality": 11,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cooked Salmon",
+        "Food Points": 6,
+        "Saturation restored": 9.6,
+        "Effective Quality": 15.6,
+        "Saturation ratio": 1.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Cookie",
+        "Food Points": 2,
+        "Saturation restored": 0.4,
+        "Effective Quality": 2.4,
+        "Saturation ratio": 0.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Dried Kelp",
+        "Food Points": 1,
+        "Saturation restored": 0.6,
+        "Effective Quality": 1.6,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Golden Apple",
+        "Food Points": 4,
+        "Saturation restored": 9.6,
+        "Effective Quality": 13.6,
+        "Saturation ratio": 2.4,
+        "Status effects": "Regeneration II for 5 seconds. Absorption for 2 minutes"
+    },
+    {
+        "Name": "Enchanted Golden Apple",
+        "Food Points": 4,
+        "Saturation restored": 9.6,
+        "Effective Quality": 13.6,
+        "Saturation ratio": 2.4,
+        "Status effects": "Regeneration II for 20 seconds 30 seconds in the Legacy Console Edition. Absorption IV for 2 minutes. Resistance for 5 minutes. Fire Resistance for 5 minutes"
+    },
+    {
+        "Name": "Golden Carrot",
+        "Food Points": 6,
+        "Saturation restored": 14.4,
+        "Effective Quality": 20.4,
+        "Saturation ratio": 2.4,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Melon Slice",
+        "Food Points": 2,
+        "Saturation restored": 1.2,
+        "Effective Quality": 3.2,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Mushroom Stew",
+        "Food Points": 6,
+        "Saturation restored": 7.2,
+        "Effective Quality": 13.2,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Poisonous Potato",
+        "Food Points": 2,
+        "Saturation restored": 1.2,
+        "Effective Quality": 3.2,
+        "Saturation ratio": 0.6,
+        "Status effects": "Poison for 4 seconds 60% chance"
+    },
+    {
+        "Name": "Potato",
+        "Food Points": 1,
+        "Saturation restored": 0.6,
+        "Effective Quality": 1.6,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Pufferfish",
+        "Food Points": 1,
+        "Saturation restored": 0.2,
+        "Effective Quality": 1.2,
+        "Saturation ratio": "0.2. −4.8",
+        "Status effects": "Hunger III for 15 seconds. Nausea II for 15 seconds. Poison IV for 60 seconds"
+    },
+    {
+        "Name": "Pumpkin Pie",
+        "Food Points": 8,
+        "Saturation restored": 4.8,
+        "Effective Quality": 12.8,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Rabbit Stew",
+        "Food Points": 10,
+        "Saturation restored": 12,
+        "Effective Quality": 22,
+        "Saturation ratio": 1.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Raw Beef",
+        "Food Points": 3,
+        "Saturation restored": 1.8,
+        "Effective Quality": 4.8,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Raw Chicken",
+        "Food Points": 2,
+        "Saturation restored": 1.2,
+        "Effective Quality": 3.2,
+        "Saturation ratio": "0.6. -2.075",
+        "Status effects": "Hunger for 30 seconds 30% chance"
+    },
+    {
+        "Name": "Raw Cod",
+        "Food Points": 2,
+        "Saturation restored": 0.4,
+        "Effective Quality": 2.4,
+        "Saturation ratio": 0.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Raw Mutton",
+        "Food Points": 2,
+        "Saturation restored": 1.2,
+        "Effective Quality": 3.2,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Raw Porkchop",
+        "Food Points": 3,
+        "Saturation restored": 1.8,
+        "Effective Quality": 4.8,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Raw Rabbit",
+        "Food Points": 3,
+        "Saturation restored": 1.8,
+        "Effective Quality": 4.8,
+        "Saturation ratio": 0.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Raw Salmon",
+        "Food Points": 2,
+        "Saturation restored": 0.4,
+        "Effective Quality": 2.4,
+        "Saturation ratio": 0.2,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Rotten Flesh",
+        "Food Points": 4,
+        "Saturation restored": 0.8,
+        "Effective Quality": 4.8,
+        "Saturation ratio": "0.2. -1.8",
+        "Status effects": "Hunger for 30 seconds 80% chance"
+    },
+    {
+        "Name": "Spider Eye",
+        "Food Points": 2,
+        "Saturation restored": 3.2,
+        "Effective Quality": 5.2,
+        "Saturation ratio": "1.6. -2.2",
+        "Status effects": "Poison for 4 seconds"
+    },
+    {
+        "Name": "Steak",
+        "Food Points": 8,
+        "Saturation restored": 12.8,
+        "Effective Quality": 20.8,
+        "Saturation ratio": 1.6,
+        "Status effects": "None"
+    },
+    {
+        "Name": "Suspicious Stew",
+        "Food Points": 6,
+        "Saturation restored": 7.2,
+        "Effective Quality": 13.2,
+        "Saturation ratio": 1.2,
+        "Status effects": "The following for 3-11 seconds, depending on the flower used:. Regeneration. Jump Boost. Poison. Wither. Weakness. Blindness. Fire Resistance. Saturation. Speed"
+    },
+    {
+        "Name": "Sweet Berries",
+        "Food Points": 2,
+        "Saturation restored": "?",
+        "Effective Quality": "?",
+        "Saturation ratio": "?",
+        "Status effects": "None"
+    },
+    {
+        "Name": "Tropical Fish",
+        "Food Points": 1,
+        "Saturation restored": 0.2,
+        "Effective Quality": 1.2,
+        "Saturation ratio": 0.2,
+        "Status effects": "None"
+    }
+  ]
